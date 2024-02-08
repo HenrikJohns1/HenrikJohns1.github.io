@@ -1,0 +1,22 @@
+/* Remove default list styles and spacing for unordered list */
+ul {
+    list-style-type: none; /* Removes bullets or numbering */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+}
+
+/* Style list items to display inline */
+li {
+    display: inline; /* Makes list items appear in a row */
+}
+
+
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
